@@ -8,11 +8,12 @@ fun main() {
     //val amountOfWorkers: Int = 2000
 
     //println(amountOfWorkers)
-    val workerInShop: Int = 2000
-    val resignedEmployee: Int = 1
-    println(workerInShop - resignedEmployee)
+    //val workerInShop: Int = 2000
+    val newWorkerInShop: Int = 1999
+
+
+    println(newWorkerInShop)
 
 
 
 }
-
